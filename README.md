@@ -1,7 +1,7 @@
-# Kmeans visualisation with Python and PyGames
+# Kmeans visualization with Python and PyGames
 
-Visualation of thr K-means algorithm
+Visualization of thr K-means algorithm
 
 # output
 
-![Alt text](output.jpg "Example of the output")
+![Alt text](output.png "Example of the output")
